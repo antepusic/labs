@@ -1,2 +1,2 @@
 # labs
-Laboratory assignments I’ve done at FER.
+Laboratory assignments I’ve done for my classes at FER.
